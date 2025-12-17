@@ -107,3 +107,5 @@ Membuka file ciphertext .bin, lalu melakukan dekripsi menggunakan kunci privat. 
 4. Selain itu, semua proses yang sukses akan menampilkan notifikasi, dan error apapun ditangani serta ditampilkan ke pengguna melalui pop-up message.
 
 5. Ini tes aja ya ges, klo ada yg ditambahin silahkan
+
+6. tes tes
